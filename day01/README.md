@@ -7,3 +7,5 @@
 
 ### Задание 2
 Создать 5 новых классов
+
+![Иллюстрация к проекту](https://i.ibb.co/FBttW42/Hard-classes-schema.png)
