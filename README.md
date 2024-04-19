@@ -7,7 +7,7 @@
 
 [Day02: Основы верстки](https://github.com/kvther1ne/Frontend-Bootcamp/tree/main/day02)
 
-[Day03: Продвинутая работа с HTML+CSS]
+[Day03: Продвинутая работа с HTML+CSS](https://github.com/kvther1ne/Frontend-Bootcamp/tree/main/day03)
 
 [Day04: Введение в nodeJS]
 
