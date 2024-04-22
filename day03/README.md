@@ -1,6 +1,6 @@
 <b>Темы:</b> адаптивная вёрстка, Flex, Grid, DOM, BOM, обработка событий, Bootstrap
 
-### Задание 1
+### [Задание 1](https://github.com/kvther1ne/Frontend-Bootcamp/tree/main/day03/chapter_1)
 Сверстать калькулятор, используя модуль CSS Grid Layout. Результат:
 
 ![Иллюстрация к проекту](https://i.ibb.co/YDLrnnV/photo1713535138.jpg)
