@@ -5,10 +5,10 @@
 
 ![Иллюстрация к проекту](https://i.ibb.co/YDLrnnV/photo1713535138.jpg)
 
-### Задание 2
+### [Задание 2](https://github.com/kvther1ne/Frontend-Bootcamp/tree/main/day03/chapter_2/ex2)
 Реализовать функционал работы калькулятора. Написать скрипт, который реализует все представленные в макете операции (сложение/вычитание/умножение/деление/стереть всё).
 
-### Задание 3
+### [Задание 3](https://github.com/kvther1ne/Frontend-Bootcamp/tree/main/day03/chapter_2/ex3)
 С использованием Bootstrap добавить header на странице, где будет 2 ссылки: 
 - На страницу calculator, где будет калькулятор. 
 - На страницу Student Info.
