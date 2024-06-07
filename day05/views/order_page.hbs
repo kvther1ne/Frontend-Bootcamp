@@ -1,0 +1,34 @@
+<html>
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Order Page</title>
+    <link href="../order_page.css" rel="stylesheet" type="text/css" />
+  </head>
+
+  <body>
+    <div class="container">
+      <label class="screen"></label>
+
+      {{#each order}}
+        <div class="menu-item-card">
+          <img src="../{{picture}}" />
+          <ul>
+            <h3>{{title}}</h3>
+            <li>
+              {{cost}}
+              $
+            </li>
+            <li>
+              {{description}}
+            </li>
+          </ul>
+        </div>
+      {{/each}}
+      <div class="total-amount">Total amount: {{totalAmount}} $</div>
+    </div>
+
+  </body>
+
+</html>

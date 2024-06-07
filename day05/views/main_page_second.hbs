@@ -1,0 +1,36 @@
+<html>
+
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Menu</title>
+    <link href="main_page_second.css" rel="stylesheet" type="text/css" />
+  </head>
+
+  <body>
+    <div class="container">
+      <label class="screen"></label>
+
+      {{#each order}}
+        <div class="menu-item-card">
+          <ul>
+            <li>
+              Order id:
+              {{id}}
+            </li>
+            <li>
+              Is active:
+              {{isActive}}
+            </li>
+            <li>
+              User id:
+              {{UserId}}
+            </li>
+          </ul>
+        </div>
+      {{/each}}
+    </div>
+
+  </body>
+
+</html>
