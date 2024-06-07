@@ -1,0 +1,36 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #ffffff;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 75%;
+  height: 55%;
+  border: solid;
+}
+
+input {
+  justify-content: center;
+  align-items: flex-start;
+  width: 70%;
+  height: 7%;
+}
+
+.buttons {
+  display: flex;
+  justify-content: right;
+  width: 80%;
+  height: 4%;
+}
+
+button {
+  width: 15%;
+  margin: 0 15px;
+}

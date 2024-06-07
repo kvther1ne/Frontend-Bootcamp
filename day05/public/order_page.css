@@ -1,0 +1,42 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  height: 100vh;
+  background-color: #ffffff;
+}
+
+.container {
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+}
+
+.menu-item-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 20vh;
+  width: 30vw;
+  aspect-ratio: 3/1;
+  border: solid;
+}
+
+.total-amount {
+  grid-column-start: 3;
+  padding-right: 30%;
+  margin-top: 10%;
+  text-align: right;
+  font-size: 150%;
+}
+
+.screen {
+  grid-column: span 3;
+}
+
+img {
+  width: 50%;
+  height: 50%;
+  object-fit: cover;
+}
